@@ -60,7 +60,7 @@ float multiple(int a[], int m){
 //main program
 int main (){
 
-    int i,j,a,n,number[15];
+    int i,j,a,n,number[100];
     float median=0;
     printf ("Jumlah angka yang ingin dimasukkan:\n");
     scanf ("%d", &n);
