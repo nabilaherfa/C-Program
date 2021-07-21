@@ -17,3 +17,7 @@ Repositori untuk seleksi Studycle Internship
 ## Limitasi Program
 1. Program dibuat menggunakan bahasa C
 2. Array yang dibuat hanya berukuran 100 element.
+
+## Author
+Nabilah Erfariani
+nabilaherfariani8@gmail.com
