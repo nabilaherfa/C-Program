@@ -11,7 +11,7 @@ Repositori untuk seleksi Studycle Internship
 
 ## How to use
 - clone repositori ini
-- buka file seleksi.c
+- buka file seleksi.c pada text editor Anda
 - run program
 
 ## Limitasi Program
