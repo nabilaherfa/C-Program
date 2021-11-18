@@ -1,6 +1,3 @@
-## General Info
-Repositori untuk seleksi Studycle Internship
-
 ## Spesifikasi Program
 - program dapat menerima input beberapa bilangan
 - program memiliki fungsi untuk mengurutkan semua bilangan yang dimasukkan dari yang terkecil sampai yang terbesar
